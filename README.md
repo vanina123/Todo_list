@@ -113,13 +113,13 @@ GitHub Pages
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project then please follow me on Linkedin, Twitter and GitHub. Thank you
+If you like this project give it a star⭐️ then please follow me on Linkedin, Twitter and GitHub. Thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microvers and my team mates for their support.
+I would like to thank Microvers and my team mates for their support and kindness.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
